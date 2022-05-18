@@ -1,0 +1,38 @@
+.win{
+    color: khaki;
+    background: green;
+}
+.free{
+    background-color: blue;
+    color: violet;
+    width: fit-content;
+}
+.box{
+    background-color: aqua;
+    border-radius: 100px;
+}
+.green{
+    background: blanchedalmond;
+    color: blue;
+    width: fit-content;
+    border-radius: 100px;
+}
+.blue{
+    background: wheat;
+    color: blue;
+    width: fit-content;
+    border-radius: 100px;
+}
+.bba{
+    background: grey;
+    height: 250px;
+}
+.aboutg{
+    background: gold;
+    border-radius: 100px;
+}
+.back{
+    background: navy;
+    height: 200px;
+
+}
